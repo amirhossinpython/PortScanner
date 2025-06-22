@@ -11,7 +11,3 @@
 - تشخیص سرویس با استفاده از Nmap
 - رابط خط فرمان ساده
 
-## نصب
-1. دریافت پروژه:
-   ```bash
-   git clone https://github.com/yourusername/port-scanner.git
